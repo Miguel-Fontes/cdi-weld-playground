@@ -1,0 +1,12 @@
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/app/Controller.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/decorators/LoggingDecorator.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/interceptors/NormalizedInterceptor.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/app/Repositorio.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/interceptors/TransactionalInterceptor.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/events/PeekMessage.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/app/DaoI.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/app/Dao.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/Application.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/interceptors/Normalized.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/events/Message.java
+/home/miguel/dev/weld/src/main/java/com/miguelmf/study/weld/interceptors/Transactional.java
